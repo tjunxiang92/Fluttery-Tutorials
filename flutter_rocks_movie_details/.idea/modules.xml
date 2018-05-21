@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutter_rocks_movie_details.iml" filepath="$PROJECT_DIR$/flutter_rocks_movie_details.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_rocks_movie_details_android.iml" filepath="$PROJECT_DIR$/flutter_rocks_movie_details_android.iml" />
+    </modules>
+  </component>
+</project>
