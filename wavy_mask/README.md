@@ -1,6 +1,7 @@
 # wavy_mask
 
-A new Flutter project.
+A wavy mask tutorial from
+https://flutter.rocks/2017/09/04/creating-a-wavy-mask-for-an-image-in-flutter/
 
 ## Getting Started
 
